@@ -22,9 +22,9 @@ public class OperatorActivity {
 		System.out.println("Difference = " + result);
 		
 		// Add numbers
+		int result2 = i+j;
 		
-		
-		// Print result
+		System.out.println(result2);// Print result
 		
 		
 	}
