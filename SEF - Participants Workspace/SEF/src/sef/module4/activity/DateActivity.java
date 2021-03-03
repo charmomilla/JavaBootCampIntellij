@@ -10,5 +10,4 @@ public class DateActivity {
 		System.out.println("Date today is " + d);
 
 	}
-
 }
